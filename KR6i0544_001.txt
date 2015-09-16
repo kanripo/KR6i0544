@@ -1,22 +1,20 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:22:19.241658
+#+DATE: 2015-08-30 20:22:20.908294
 #+TITLE: 佛說發菩提心破諸魔經
 #+PROPERTY: CBETA_ID T17n0838
 #+PROPERTY: ID KR6i0544
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 17, No. 838
 #+PROPERTY: VOL 17
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6i0544_T_001-0896c> 
 #+PROPERTY: JUAN 1
 ¶
-No.838[No.837]¶
-
- 《佛說發菩提心破諸魔經》卷上¶
+No. 838 [No. 837]¶
+《佛說發菩提心破諸魔經》卷上¶
 ¶
 西天譯經三藏朝奉大夫¶
-試光祿卿傳法大師賜紫¶
-臣施護奉　詔譯¶
+試光祿卿傳法大師賜紫臣施護奉　詔譯¶
 
 如是我聞：
 
