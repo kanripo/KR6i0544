@@ -1,12 +1,12 @@
 # -*- mode: mandoku-view; -*-
-#+DATE: 2016-06-08 9:55
+#+DATE: 2016-06-08 9:56
 #+TITLE: 佛說發菩提心破諸魔經
 #+PROPERTY: CBETA_ID T17n0838
 #+PROPERTY: ID KR6i0544
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 17, No. 838
 #+PROPERTY: VOL 17
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS master
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6i0544_T_002-0899a> ¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 2
 ¶
@@ -58,7 +58,7 @@
 無願，此說名為聖住，菩薩摩訶薩當依如是¶
 聖住中住。」¶
 
-爾時世尊欲重宣此義，說伽陀曰：¶
+爾時世尊欲重宣此義，說󰰄陀曰：¶
 
 #+BEGIN_VERSE
 「　「我所說三住，
